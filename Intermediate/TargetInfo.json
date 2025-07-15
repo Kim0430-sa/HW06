@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HW061",
+			"Path": "..\\Source\\HW061.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HW061Editor",
+			"Path": "..\\Source\\HW061Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
